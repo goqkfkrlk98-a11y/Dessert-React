@@ -14,3 +14,7 @@ npm run dev
 git add .
 git commit -m "메세지"
 git push -u origin main
+
+
+rode.modules는 깃에 올라가지 않음.
+깃 파일 다운받으면 다시 npm install 해야 함.
